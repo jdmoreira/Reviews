@@ -1,9 +1,6 @@
 //
 //  ReviewsTests.swift
 //  ReviewsTests
-//
-//  Created by João D. Moreira on 2022-11-08.
-//
 
 import XCTest
 @testable import Reviews
