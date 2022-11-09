@@ -14,6 +14,16 @@
 		CD0D6C86291C507D004343D9 /* MockedServiceProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6C83291C507D004343D9 /* MockedServiceProvider.swift */; };
 		CD0D6C87291C507D004343D9 /* ServiceProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6C84291C507D004343D9 /* ServiceProvider.swift */; };
 		CD0D6C9C291C526D004343D9 /* UIView+Embed.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6C92291C526D004343D9 /* UIView+Embed.swift */; };
+		CD0D6CA0291C5393004343D9 /* UIStackView+Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6C9E291C5393004343D9 /* UIStackView+Helpers.swift */; };
+		CD0D6CA1291C5393004343D9 /* UIView+Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6C9F291C5393004343D9 /* UIView+Spacer.swift */; };
+		CD0D6CA9291C53B6004343D9 /* RateRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CA2291C53B5004343D9 /* RateRow.swift */; };
+		CD0D6CAA291C53B6004343D9 /* StatsRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CA3291C53B5004343D9 /* StatsRow.swift */; };
+		CD0D6CAB291C53B6004343D9 /* StarsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CA4291C53B6004343D9 /* StarsView.swift */; };
+		CD0D6CAC291C53B6004343D9 /* UIButton+Simple.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CA5291C53B6004343D9 /* UIButton+Simple.swift */; };
+		CD0D6CAD291C53B6004343D9 /* UIView+Separator.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CA6291C53B6004343D9 /* UIView+Separator.swift */; };
+		CD0D6CAE291C53B6004343D9 /* UILabel+Title.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CA7291C53B6004343D9 /* UILabel+Title.swift */; };
+		CD0D6CAF291C53B6004343D9 /* ReviewRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CA8291C53B6004343D9 /* ReviewRow.swift */; };
+		CD0D6CB1291C53D3004343D9 /* UserReviewDetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0D6CB0291C53D3004343D9 /* UserReviewDetailsVC.swift */; };
 		CDE1D687291A41AB002087A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE1D686291A41AB002087A3 /* AppDelegate.swift */; };
 		CDE1D689291A41AB002087A3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE1D688291A41AB002087A3 /* SceneDelegate.swift */; };
 		CDE1D690291A41AE002087A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDE1D68F291A41AE002087A3 /* Assets.xcassets */; };
@@ -40,6 +50,16 @@
 		CD0D6C83291C507D004343D9 /* MockedServiceProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockedServiceProvider.swift; sourceTree = "<group>"; };
 		CD0D6C84291C507D004343D9 /* ServiceProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceProvider.swift; sourceTree = "<group>"; };
 		CD0D6C92291C526D004343D9 /* UIView+Embed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Embed.swift"; sourceTree = "<group>"; };
+		CD0D6C9E291C5393004343D9 /* UIStackView+Helpers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStackView+Helpers.swift"; sourceTree = "<group>"; };
+		CD0D6C9F291C5393004343D9 /* UIView+Spacer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Spacer.swift"; sourceTree = "<group>"; };
+		CD0D6CA2291C53B5004343D9 /* RateRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RateRow.swift; sourceTree = "<group>"; };
+		CD0D6CA3291C53B5004343D9 /* StatsRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatsRow.swift; sourceTree = "<group>"; };
+		CD0D6CA4291C53B6004343D9 /* StarsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarsView.swift; sourceTree = "<group>"; };
+		CD0D6CA5291C53B6004343D9 /* UIButton+Simple.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Simple.swift"; sourceTree = "<group>"; };
+		CD0D6CA6291C53B6004343D9 /* UIView+Separator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Separator.swift"; sourceTree = "<group>"; };
+		CD0D6CA7291C53B6004343D9 /* UILabel+Title.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UILabel+Title.swift"; sourceTree = "<group>"; };
+		CD0D6CA8291C53B6004343D9 /* ReviewRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReviewRow.swift; sourceTree = "<group>"; };
+		CD0D6CB0291C53D3004343D9 /* UserReviewDetailsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserReviewDetailsVC.swift; sourceTree = "<group>"; };
 		CDE1D683291A41AB002087A3 /* Reviews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reviews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDE1D686291A41AB002087A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CDE1D688291A41AB002087A3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				CD0D6C7E291C4F99004343D9 /* ReviewsVC.swift */,
+				CD0D6CB0291C53D3004343D9 /* UserReviewDetailsVC.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -90,6 +111,13 @@
 		CD0D6C88291C526D004343D9 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				CD0D6CA2291C53B5004343D9 /* RateRow.swift */,
+				CD0D6CA8291C53B6004343D9 /* ReviewRow.swift */,
+				CD0D6CA4291C53B6004343D9 /* StarsView.swift */,
+				CD0D6CA3291C53B5004343D9 /* StatsRow.swift */,
+				CD0D6CA5291C53B6004343D9 /* UIButton+Simple.swift */,
+				CD0D6CA7291C53B6004343D9 /* UILabel+Title.swift */,
+				CD0D6CA6291C53B6004343D9 /* UIView+Separator.swift */,
 				CD0D6C8F291C526D004343D9 /* UI Helpers */,
 			);
 			path = Views;
@@ -98,7 +126,9 @@
 		CD0D6C8F291C526D004343D9 /* UI Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				CD0D6C9E291C5393004343D9 /* UIStackView+Helpers.swift */,
 				CD0D6C92291C526D004343D9 /* UIView+Embed.swift */,
+				CD0D6C9F291C5393004343D9 /* UIView+Spacer.swift */,
 			);
 			path = "UI Helpers";
 			sourceTree = "<group>";
@@ -255,16 +285,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD0D6CB1291C53D3004343D9 /* UserReviewDetailsVC.swift in Sources */,
 				CD0D6C9C291C526D004343D9 /* UIView+Embed.swift in Sources */,
 				CDE1D6BC291A47DD002087A3 /* Review.swift in Sources */,
 				CD0D6C56291A67B1004343D9 /* Business.swift in Sources */,
 				CDE1D687291A41AB002087A3 /* AppDelegate.swift in Sources */,
+				CD0D6CAA291C53B6004343D9 /* StatsRow.swift in Sources */,
 				CD0D6C87291C507D004343D9 /* ServiceProvider.swift in Sources */,
 				CD0D6C76291BC6DA004343D9 /* Mocked.swift in Sources */,
 				CDE1D689291A41AB002087A3 /* SceneDelegate.swift in Sources */,
+				CD0D6CA9291C53B6004343D9 /* RateRow.swift in Sources */,
 				CD0D6C86291C507D004343D9 /* MockedServiceProvider.swift in Sources */,
+				CD0D6CAB291C53B6004343D9 /* StarsView.swift in Sources */,
+				CD0D6CA1291C5393004343D9 /* UIView+Spacer.swift in Sources */,
+				CD0D6CA0291C5393004343D9 /* UIStackView+Helpers.swift in Sources */,
+				CD0D6CAE291C53B6004343D9 /* UILabel+Title.swift in Sources */,
 				CD0D6C80291C4F99004343D9 /* ReviewsVC.swift in Sources */,
 				CD0D6C85291C507D004343D9 /* HTTPServiceProvider.swift in Sources */,
+				CD0D6CAD291C53B6004343D9 /* UIView+Separator.swift in Sources */,
+				CD0D6CAF291C53B6004343D9 /* ReviewRow.swift in Sources */,
+				CD0D6CAC291C53B6004343D9 /* UIButton+Simple.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
