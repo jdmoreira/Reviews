@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="36px" viewBox="0 0 37 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>star_empty</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="review_section" transform="translate(-66.000000, -185.000000)" stroke="#D8D8D8" stroke-width="2">
+            <g id="Reviews" transform="translate(16.000000, 26.000000)">
+                <g id="add_review" transform="translate(0.000000, 93.000000)">
+                    <g id="star_empty" transform="translate(50.147059, 66.000000)">
+                        <path d="M18.4492716,3.25799202 L22.0544369,14.4366278 L33.8000087,14.4109553 L24.2825516,21.2940597 L27.9365489,32.4568291 L18.4492716,25.5321858 L8.96199435,32.4568291 L12.6159916,21.2940597 L3.09853454,14.4109553 L14.8441063,14.4366278 L18.4492716,3.25799202 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>person</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="review_section" transform="translate(-15.000000, -423.000000)">
+            <g id="review" transform="translate(15.000000, 421.000000)">
+                <g id="Group-5" transform="translate(0.000000, 2.000000)">
+                    <path d="M17.5,35 C21.9654393,35 26.0402453,33.3275 29.1321668,30.5747513 C32.7323907,27.3694591 35,22.6995438 35,17.5 C35,7.83501688 27.1649831,0 17.5,0 C7.83501688,0 0,7.83501688 0,17.5 C0,27.1649831 7.83501688,35 17.5,35 Z" id="Oval" fill="#CCCCCC"></path>
+                    <path d="M16.8,15.4 C19.1205,15.4 21,13.5205 21,11.2 C21,8.8795 19.1205,7 16.8,7 C14.4795,7 12.6,8.8795 12.6,11.2 C12.6,13.5205 14.4795,15.4 16.8,15.4 Z M17.5,16.8 C14.462875,16.8 8.4,18.3633333 8.4,21.4666667 L8.4,23.8 L26.6,23.8 L26.6,21.4666667 C26.6,18.3633333 20.537125,16.8 17.5,16.8 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
